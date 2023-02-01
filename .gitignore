@@ -1,0 +1,8 @@
+# cache files
+cache/*
+!cache/system/.htaccess
+!cache/.htaccess
+
+# config files
+data/*.php
+data/*.txt
