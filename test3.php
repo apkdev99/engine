@@ -5,3 +5,5 @@ if( !defined( 'DATALIFEENGINE' ) ) {
     header ( 'Location: ../' );
     die( "Hacking attempt!" );
 }
+
+echo "ololo";
